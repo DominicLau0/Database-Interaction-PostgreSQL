@@ -33,3 +33,7 @@ Since I'm using the `psycopg2` library, you have to install the library using th
 `pip install psycopg2`
 
 `pip3 install psycopg2`
+
+<br>
+
+IMPORTANT: Make sure to update the database connection to match your own database specification on line 66 from the python file.
